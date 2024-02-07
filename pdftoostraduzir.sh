@@ -1,4 +1,6 @@
 #!/bin/bash
+Echo em desenvolvimento...
+exit 1
 
 if [ "$#" -ne 4 ]; then
     echo "Uso: $0 input_file output_prefix num_parts translation"
@@ -18,7 +20,7 @@ traduzir="$4"
 
 
 # Definindo a chave de API do Google Tradutor
-API_KEY="AIzaSyB1e0dNIe8CuLv6DYYKgvMptkQ4RPe8jHA"
+API_KEY="dsfgsdgasdfasfa65sdf4a6sdf4"
 
 # Criando uma pasta com o nome especificado pelo output_prefix
 output_folder="${output_prefix}_output"
