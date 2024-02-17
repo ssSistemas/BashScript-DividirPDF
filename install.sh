@@ -4,3 +4,4 @@ cd scripts
 sudo cp * /usr/bin/
 sudo chmod +x /usr/bin/pdftoosdividir.sh
 sudo chmod +x /usr/bin/pdftoosmesclar.sh
+sudo apt install pdftk

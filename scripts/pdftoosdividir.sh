@@ -5,7 +5,7 @@ if [ "$#" -ne 3 ]; then
     echo "Deve ser informados quatro parametros na seguinte sequência"
     echo "Parametro 1: Nome do Arquivo PDF que deseja dividir"
     echo "Parametro 2: Nome da saida de arquivos dividios"
-    echo "Parametro 3: Quantidade que deve ser dividio o arquivo PDF"
+    echo "Parametro 3:  Quantidade de arquivos que deve ser dividido o arquivo PDF"
     exit 1
 fi
 
